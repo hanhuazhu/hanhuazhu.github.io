@@ -15,7 +15,7 @@ const Home = () => {
             engineer</span> and freshman at Oregon State University,
             set to graduate in 2026</h3>
           <h3 className='Home__description'>Before then, I hope to acquire as much industry experience 
-            as I can in order to <span>grow further</span> and improve the <span>practicality</span> of my code</h3>
+            as I can in order to <span>grow further</span> and improve the <span>design flow</span> of my work</h3>
           <h3 className='Home__description'>My mission is to apply the principles
             and theories I learn in coursework to real-life solutions, and work
             with teams as <span>passionate</span> as I am!</h3>
