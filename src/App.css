@@ -1,0 +1,28 @@
+.App {
+  background-color: var(--background-color);
+  color: var(--primary-color);
+}
+
+.App--dark {
+  --background-color: #01172F;
+  --primary-color: #E6EBE0;
+  --secondary-color: #FF4365;
+  --tertiary-color: #000A14;  
+}
+
+.App--light {
+  --background-color: #5D576B;
+  --primary-color: #E6EBE0;
+  --secondary-color: #ED6A5A;
+  --tertiary-color: #36413E;
+}
+
+@keyframes fadeInTransition {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 100;
+  }
+}
